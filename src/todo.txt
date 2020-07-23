@@ -3,4 +3,4 @@
 [X] tearDown 나중에 실행 - 실패 였어도
 [X] 테스트 결과 수집
 [X] 테스트 suite
-[] 테스트 annotation
+[X] 테스트 annotation
